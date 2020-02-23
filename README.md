@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Prerequisites:
 
-Python >=3.5_
+Python >=3.5__
 SKlearn_
 Numpy_
 Pandas_
