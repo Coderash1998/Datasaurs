@@ -6,13 +6,13 @@ As we see the drastic change in the weather over the globe in a short span of ti
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites:
+Prerequisites:<br />
 
-Python >=3.5__
-SKlearn_
-Numpy_
-Pandas_
-Matplotlib_
-Map Box_
+Python >= 3.5 <br />
+SKlearn<br />
+Numpy<br />
+Pandas<br />
+Matplotlib<br />
+Map Box<br />
 
 
