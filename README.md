@@ -8,11 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 Prerequisites:
 
-Python >=3.5\n
-SKlearn\n
-Numpy
-Pandas
-Matplotlib
-Map Box
+Python >=3.5_
+SKlearn_
+Numpy_
+Pandas_
+Matplotlib_
+Map Box_
 
 
